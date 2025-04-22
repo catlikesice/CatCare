@@ -1,0 +1,7 @@
+/* styles.css */
+
+/* A reusable class to make elements behave as block-level elements */
+.block-element {
+    display: block; /* Forces the element to take up the full width of its parent */
+    margin-bottom: 10px; /* Adds some spacing below the element */
+}
